@@ -1,0 +1,5 @@
+@charset "UTF-8";
+
+ ul#skill li, ul#softLang li, ul#progmam li{
+  margin: 0.9em;
+}

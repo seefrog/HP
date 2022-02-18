@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+div.contents{
+  width: 80%;
+  margin:0 auto;
+}
+
+#showWrap{
+  display:flex;
+  flex-wrap: wrap;
+}
+
+img{
+ padding: 5px;
+  max-width: 210px;
+  max-height: 210px;
+}
+
+ #showbox{
+  margin: 10px;
+  border: solid 1px ;
+  height: 220px;
+  width:  220px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
